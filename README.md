@@ -19,7 +19,8 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 ---
 
 ## Networks by Region
-[NAME - Country - City] 
+- [NAME - Country - City]
+  
 ### Latin America
 - [CARC - Argentina](https://carc.libre.org.ar/)
 - [Altermundi - Argentina - Quintana](https://altermundi.net/)
@@ -50,7 +51,9 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 - [LibreMesh](https://libremesh.org/)
 - [gluon](https://gluon.readthedocs.io/en/latest/)
 - [Retroshare](https://retroshare.cc/)
+- [qaul Internet Independent Wireless Mesh Communication App](https://github.com/qaul/qaul.net)
 - [Yggdrasil](https://yggdrasil-network.github.io/)
+- [Meshenger](https://github.com/dakhnod/Meshenger)
 - [Reticulum](https://reticulum.network/)
 - [ESP32 LoRa Mesh Projects](https://meshtastic.org/)
 
