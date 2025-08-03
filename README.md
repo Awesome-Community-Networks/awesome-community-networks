@@ -34,7 +34,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 - [Guifi.net - Spain](https://guifi.net/)
 - [Freifunk - Germany](https://freifunk.net/)
 - [Ninux - Italy](http://wiki.ninux.org/)
-- [Antenie - Italy] (https://antennine.noblogs.org/)
+- [Antenie - Italy](https://antennine.noblogs.org/)
 
 ### Africa
 - [Zenzeleni - South Africa](https://zenzeleni.net/)
