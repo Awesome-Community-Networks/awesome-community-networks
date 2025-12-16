@@ -71,7 +71,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ## Governance & Policy
 - [Community Networks as a public policy](https://altermundi.net/wp-content/uploads/2023/04/NodoTAU_AlterMundi_-2-A-public-policy-in-motion.pdf)
-- [Community Network Manual by APC](https://www.apc.org/en/pubs/community-networks-manual)
+- [Community Network Manual by APC (Association for Progressive Communications)](https://www.apc.org/en/pubs/community-networks-manual)
 - [IGF Dynamic Coalition on Community Connectivity](https://comconnectivity.org/)
 
 ---
