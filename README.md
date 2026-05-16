@@ -32,7 +32,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 - [TIC A.C. - Mexico](https://ticac.org/) - Indigenous community-owned cellular and mesh network
 
 ### Europe
-- [Guifi.net - Spain](https://guifi.net/) - One of the largest community networks in the world, with thousands of nodes
+- [Guifi.net - Spain](https://fundacio.guifi.net/) - One of the largest community networks in the world, with thousands of nodes
 - [Freifunk - Germany](https://freifunk.net/) - Nationwide initiative for free and open mesh networks
 - [Ninux - Italy](http://wiki.ninux.org/) - Community wireless network in Rome and across Italy
 - [Antennine - Italy](https://antennine.org/) - Community wireless network in Palermo, Sicily
@@ -42,7 +42,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ### Africa
 - [Zenzeleni - South Africa](https://zenzeleni.net/) - Community network in Mankosi serving rural Eastern Cape
-- [TunapandaNET - Kenya](https://tunapanda.org/) - Community network providing connectivity and digital skills in Nairobi
+- [TunapandaNET - Kenya](https://www.apc.org/en/users/tunapanda-institute) - Community network providing connectivity and digital skills in Nairobi
 
 ### Asia
 - [Common Room Networks Foundation - Indonesia](https://commonroom.info/) - Community networks empowering indigenous and rural villages in West Java
@@ -51,7 +51,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ### North America
 - [NYC Mesh - USA - New York City](https://nycmesh.net/) - Community-owned mesh network ending the digital divide in NYC
-- [People's Open Network - USA - Oakland](https://sudomesh.org/) - Community wireless mesh network in the Bay Area
+- [People's Open Network - USA - Oakland](https://github.com/sudomesh) - Community wireless mesh network in the Bay Area
 - [Seattle Community Network - USA - Seattle](https://seattlecommunitynetwork.org/) - Community-run 4G LTE network for fair internet access
 - [Seattle Community Network (SCN) - USA - Seattle](https://www.scn.org/) - Free public-access network since 1994.
 - [Vancouver Community Network - Canada](https://www2.vcn.bc.ca/) - Free community network providing internet access and digital equity
@@ -85,13 +85,13 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 - [Mesh Potato](https://www.villagetelco.org/) - Low-cost WiFi VoIP device for community telephony
 - [Meshbox](https://github.com/libremesh/lime-packages) - LibreMesh community firmware packages for mesh routers
-- [LibreRouter](https://librerouter.org/) - Open-hardware router designed specifically for community networks
+- [LibreRouter](https://github.com/librerouter) - Open-hardware router designed specifically for community networks
 - [OpenWrt-One](https://openwrt.org/toh/openwrt/one) - Official OpenWrt hardware reference board
 
 ---
 
 ## Governance & Policy
-- [Community Networks as a public policy](https://altermundi.net/wp-content/uploads/2023/04/NodoTAU_AlterMundi_-2-A-public-policy-in-motion.pdf) - Research paper exploring legal frameworks for community internet infrastructure
+- [Community Networks as a public policy](https://altermundi.org/) - Research paper exploring legal frameworks for community internet infrastructure
 - [Community Network Manual by APC (Association for Progressive Communications)](https://www.apc.org/en/pubs/community-networks-manual) - Comprehensive guide covering political, social, and technical design patterns
 - [IGF Dynamic Coalition on Community Connectivity](https://comconnectivity.org/) - Global multi-stakeholder platform discussing alternative community-led telecommunication regulation
 
@@ -99,7 +99,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ## Learning Resources
 - [Freifunk Blog](https://blog.freifunk.net) - Updates, case studies, and tutorials from the German mesh movement
-- [Altermundi's Community Network Curriculum](https://altermundi.net/en/curriculum/) - Education materials for setting up autonomous network hardware and culture
+- [Altermundi's Community Network Curriculum](https://altermundi.org/en/curriculum/) - Education materials for setting up autonomous network hardware and culture
 - [Wireless Networking in the Developing World](https://wndw.net/) - Practical book about designing and maintaining low-cost wireless infrastructure
 - [Creating wireless community networks with LibreRouter, LibreMesh and other tools](https://www.earthdefenderstoolkit.com/one-pager/guide-librerouter-and-libremesh/) - Illustrated guide for frontline and indigenous community defenders
 - [Common Room Library](https://commonroom.info/category/library/) - Learning materials and documentation from the Indonesian School for Community Networking
@@ -120,4 +120,4 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 ## Communities & Mailing Lists
 
 - [BattleMesh Matrix Room](https://matrix.to/#/#battlemesh:matrix.org) - Persistent public text chat for global mesh developers and network enthusiasts
-- LibreMesh [Forum](https://forum.libremesh.org/) and [matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net) - Decentralized support forum and development channels for the LibreMesh ecosystem
+- LibreMesh [Forum](https://github.com/libremesh) and [matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net) - Decentralized support forum and development channels for the LibreMesh ecosystem
