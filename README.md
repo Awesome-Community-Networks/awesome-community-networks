@@ -76,6 +76,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 - [FIPS](https://github.com/jmcorgan/fips) - Self-organizing encrypted mesh network built on Nostr identities
 - [nostr-vpn](https://github.com/mmalmi/nostr-vpn) - Tailscale-style private mesh VPN using FIPS data plane
 - [TollGate](https://github.com/OpenTollGate/tollgate-module-basic-go) - Bearer instruments for transport
+- [wifistr](https://github.com/hzrd149/wifistr) - Open WiFi map powered by Nostr
 
 
 ---
@@ -90,17 +91,17 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 ---
 
 ## Governance & Policy
-- [Community Networks as a public policy](https://altermundi.net/wp-content/uploads/2023/04/NodoTAU_AlterMundi_-2-A-public-policy-in-motion.pdf)
-- [Community Network Manual by APC (Association for Progressive Communications)](https://www.apc.org/en/pubs/community-networks-manual)
-- [IGF Dynamic Coalition on Community Connectivity](https://comconnectivity.org/)
+- [Community Networks as a public policy](https://altermundi.net/wp-content/uploads/2023/04/NodoTAU_AlterMundi_-2-A-public-policy-in-motion.pdf) - Research paper exploring legal frameworks for community internet infrastructure
+- [Community Network Manual by APC (Association for Progressive Communications)](https://www.apc.org/en/pubs/community-networks-manual) - Comprehensive guide covering political, social, and technical design patterns
+- [IGF Dynamic Coalition on Community Connectivity](https://comconnectivity.org/) - Global multi-stakeholder platform discussing alternative community-led telecommunication regulation
 
 ---
 
 ## Learning Resources
-- [Freifunk Blog](https://blog.freifunk.net)
-- [Altermundi’s Community Network Curriculum](https://altermundi.net/en/curriculum/)
-- [Wireless Networking in the Developing World](https://wndw.net/)
-- [Creating wireless community networks with LibreRouter, LibreMesh and other tools](https://www.earthdefenderstoolkit.com/one-pager/guide-librerouter-and-libremesh/)
+- [Freifunk Blog](https://blog.freifunk.net) - Updates, case studies, and tutorials from the German mesh movement
+- [Altermundi's Community Network Curriculum](https://altermundi.net/en/curriculum/) - Education materials for setting up autonomous network hardware and culture
+- [Wireless Networking in the Developing World](https://wndw.net/) - Practical book about designing and maintaining low-cost wireless infrastructure
+- [Creating wireless community networks with LibreRouter, LibreMesh and other tools](https://www.earthdefenderstoolkit.com/one-pager/guide-librerouter-and-libremesh/) - Illustrated guide for frontline and indigenous community defenders
 - [Common Room Library](https://commonroom.info/category/library/) - Learning materials and documentation from the Indonesian School for Community Networking
 - [Rural ICT Camp](https://ruralictcamp.commonroom.info/) - International knowledge-sharing platform for rural connectivity and digital skills
 - [APC CN Learning Repository](https://cnlearning.apc.org/) - Global hub with manuals, training programs, and research for community networks
@@ -112,11 +113,11 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 - [Wireless BattleMesh](https://battlemesh.org/) - Annual gathering to test and compare wireless mesh routing protocols
 - [Summit on Community Networks in Africa](https://www.internetsociety.org/events/summit-community-networks-africa/) - Annual summit for African community network practitioners
-- [RadCom](https://radcom.digital/) - Radio + Community conference
+- [Radical Networks](https://radicalnetworks.org/) - Conference on creative, critical, and alternative network infrastructures
 
 ---
 
 ## Communities & Mailing Lists
 
-- [BattleMesh Matrix Room](https://matrix.to/#/#battlemesh:matrix.org)
-- LibreMesh [Forum](https://forum.libremesh.org/) and [matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net)
+- [BattleMesh Matrix Room](https://matrix.to/#/#battlemesh:matrix.org) - Persistent public text chat for global mesh developers and network enthusiasts
+- LibreMesh [Forum](https://forum.libremesh.org/) and [matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net) - Decentralized support forum and development channels for the LibreMesh ecosystem
