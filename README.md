@@ -22,7 +22,6 @@ A curated list of community networks, mesh technologies, and grassroots connecti
   
 ### Latin America
 - [Altermundi - Argentina - Quintana](https://altermundi.net/) - Grassroots connectivity and LibreMesh development
-- [CARC - Argentina](https://carc.libre.org.ar/) - Argentine community network cooperative
 - [Coolab - Brazil](https://coolab.org/) - Cooperative for free internet and community connectivity
 - [ElValleReinicia - Argentina - Las Calles, Córdoba](https://radioslibres.net/conoce-a-la-red-comunitaria-el-valle-reinicia/) - Community network deployed with LibreRouter
 - [MonteNet - Argentina - Molinari](https://montelibre.net/) - Community network in Molinari, Córdoba
@@ -45,14 +44,14 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ### Asia
 - [Common Room Networks Foundation - Indonesia](https://commonroom.info/) - Community networks empowering indigenous and rural villages in West Java
-- [Digital Empowerment Foundation - India](https://defindia.org/) - Digital literacy and community networks across rural India
+- [Digital Empowerment Foundation - India](https://www.defindia.net/) - Digital literacy and community networks across rural India
 - [Rhizomatica - Philippines](https://rhizomatica.org/) - Community cellular networks for indigenous peoples
 
 ### North America
 - [NYC Mesh - USA - New York City](https://nycmesh.net/) - Community-owned mesh network ending the digital divide in NYC
 - [People's Open Network - USA - Oakland](https://github.com/sudomesh) - Community wireless mesh network in the Bay Area
 - [Seattle Community Network - USA - Seattle](https://seattlecommunitynetwork.org/) - Community-run 4G LTE network for fair internet access
-- [Vancouver Community Network - Canada](https://www2.vcn.bc.ca/) - Free community network providing internet access and digital equity
+- [Vancouver Community Network - Canada](https://www.vcn.bc.ca/) - Free community network providing internet access and digital equity
 
 ---
 
@@ -81,7 +80,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ## Hardware Projects
 
-- [LibreRouter](https://librerouter.org/) - Open-source hardware router specifically designed for community networks with dual-band support and LibreMesh integration.
+- [LibreRouter](https://gitlab.com/librerouter) - Open-source hardware router specifically designed for community networks with dual-band support and LibreMesh integration.
 - [Mesh Potato](https://villagetelco.org/mesh-potato/) - Low-cost mesh telephony device combining WiFi mesh networking with VoIP capabilities for rural areas.
 - [Meshbox](https://github.com/libremesh/lime-packages) - Plug-and-play mesh network router hardware running LibreMesh firmware.
 - [OpenWrt-One](https://openwrt.org/toh/openwrt/one) - Reference hardware platform designed specifically for OpenWrt development and deployment.
@@ -119,4 +118,5 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 ## Communities & Mailing Lists
 
 - [BattleMesh Matrix Room](https://matrix.to/#/#battlemesh:matrix.org) - Real-time chat room for mesh networking enthusiasts and developers on the Matrix protocol.
-- LibreMesh [Forum](https://forum.libremesh.org/) and [Matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net) - Official community discussion platforms for LibreMesh firmware users and developers.
+- [LibreMesh Matrix channel](https://matrix.to/#/#libremesh-dev:matrix.guifi.net) - Official community discussion platform for LibreMesh firmware users and developers.
+- [LibreMesh Mailing List](https://www.autistici.org/mailman/listinfo/libremesh) - Official mailing list for LibreMesh community announcements, support and development discussion.
