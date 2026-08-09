@@ -1,13 +1,12 @@
 # Broken Links Report
 
-Generated: 2026-08-09 11:07 UTC
+Generated: 2026-08-09 01:43 UTC
 
 **2 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
 - [ ] `https://comconnectivity.org/` - Timeout or DNS failure (000)
-- [ ] `https://rhizomatica.org/` - Timeout or DNS failure (000)
 
 ## How to Fix
 
