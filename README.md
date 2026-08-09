@@ -8,7 +8,7 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ## Contents
 
-- [Networks by Region](#networks-by-region)
+- [Networks by Continent](#networks-by-continent)
 - [Tools & Software](#tools--software)
 - [Hardware Projects](#hardware-projects)
 - [Governance & Policy](#governance--policy)
@@ -18,16 +18,17 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ---
 
-## Networks by Region
+## Networks by Continent
   
-### Latin America
-- [Altermundi - Argentina - Quintana](https://altermundi.net/) - Grassroots connectivity and LibreMesh development
+### South America
+- [Altermundi - Argentina - Quintana](https://conectividad.altermundi.net/) - Grassroots connectivity and LibreRouter development
+- [Carc - Argentina](https://web.archive.org/web/20241116083113/https://carc.libre.org.ar/) - Argentine summit of community networks
 - [Coolab - Brazil](https://coolab.org/) - Cooperative for free internet and community connectivity
 - [ElValleReinicia - Argentina - Las Calles, Córdoba](https://radioslibres.net/conoce-a-la-red-comunitaria-el-valle-reinicia/) - Community network deployed with LibreRouter
 - [MonteNet - Argentina - Molinari](https://montelibre.net/) - Community network in Molinari, Córdoba
 - [NonoLibre - Argentina - Nono (Traslasierra Valley)](https://programafrida.net/archivos/project/red-traslasierra) - Community network in the Traslasierra Valley
+- [Rhizomatica - Mexico](https://rhizomatica.org/) - Community cellular networks for indigenous peoples
 - [Rede Mocambos - Brazil](https://mocambos.net/) - Quilombola community network connecting rural settlements
-- [TIC A.C. - Mexico](https://ticac.org/) - Indigenous community-owned cellular and mesh network
 
 ### Europe
 - [Antennine - Italy](https://antennine.org/) - Community wireless network in Palermo, Sicily
@@ -44,14 +45,16 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 
 ### Asia
 - [Common Room Networks Foundation - Indonesia](https://commonroom.info/) - Community networks empowering indigenous and rural villages in West Java
-- [Digital Empowerment Foundation - India](https://www.defindia.net/) - Digital literacy and community networks across rural India
-- [Rhizomatica - Philippines](https://rhizomatica.org/) - Community cellular networks for indigenous peoples
+- [Digital Empowerment Foundation - India](https://defindia.org/) - Digital literacy and community networks across rural India
+
 
 ### North America
 - [NYC Mesh - USA - New York City](https://nycmesh.net/) - Community-owned mesh network ending the digital divide in NYC
 - [People's Open Network - USA - Oakland](https://github.com/sudomesh) - Community wireless mesh network in the Bay Area
+- [Rhizomatica - Mexico](https://rhizomatica.org/) - Community cellular networks for indigenous peoples
 - [Seattle Community Network - USA - Seattle](https://seattlecommunitynetwork.org/) - Community-run 4G LTE network for fair internet access
-- [Vancouver Community Network - Canada](https://www.vcn.bc.ca/) - Free community network providing internet access and digital equity
+- [TIC A.C. - Mexico](https://ticac.org/) - Indigenous community-owned cellular and mesh network
+- [Vancouver Community Network - Canada](https://www2.vcn.bc.ca/) - Free community network providing internet access and digital equity
 
 ---
 

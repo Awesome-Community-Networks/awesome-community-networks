@@ -1,12 +1,13 @@
 # Broken Links Report
 
-Generated: 2026-07-22 03:43 UTC
+Generated: 2026-08-09 11:07 UTC
 
-**1 broken link(s) found** out of 63 total URLs in `README.md`.
+**2 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
-- [ ] `https://www.defindia.net/` - Timeout or DNS failure (000)
+- [ ] `https://comconnectivity.org/` - Timeout or DNS failure (000)
+- [ ] `https://rhizomatica.org/` - Timeout or DNS failure (000)
 
 ## How to Fix
 
