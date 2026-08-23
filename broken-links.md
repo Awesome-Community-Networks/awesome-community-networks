@@ -1,12 +1,13 @@
 # Broken Links Report
 
-Generated: 2026-08-16 01:16 UTC
+Generated: 2026-08-23 01:18 UTC
 
-**7 broken link(s) found** out of 64 total URLs in `README.md`.
+**8 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
 - [ ] `https://carc.libre.org.ar/` - Timeout or DNS failure (000)
+- [ ] `https://defindia.org/` - Timeout or DNS failure (000)
 - [ ] `https://forum.libremesh.org/` - Timeout or DNS failure (000)
 - [ ] `https://librerouter.org/` - Timeout or DNS failure (000)
 - [ ] `https://www.awmn.net/` - HTTP 403
