@@ -1,12 +1,19 @@
 # Broken Links Report
 
-Generated: 2026-08-09 01:43 UTC
+Generated: 2026-08-23 01:18 UTC
 
-**2 broken link(s) found** out of 64 total URLs in `README.md`.
+**8 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
-- [ ] `https://comconnectivity.org/` - Timeout or DNS failure (000)
+- [ ] `https://carc.libre.org.ar/` - Timeout or DNS failure (000)
+- [ ] `https://defindia.org/` - Timeout or DNS failure (000)
+- [ ] `https://forum.libremesh.org/` - Timeout or DNS failure (000)
+- [ ] `https://librerouter.org/` - Timeout or DNS failure (000)
+- [ ] `https://www.awmn.net/` - HTTP 403
+- [ ] `https://www.internetsociety.org/events/summit-community-networks-africa/` - HTTP 403
+- [ ] `https://www.internetsociety.org/resources/community-network-diy-toolkit/understand-community-network-examples/` - HTTP 403
+- [ ] `https://www2.vcn.bc.ca/` - HTTP 403
 
 ## How to Fix
 
