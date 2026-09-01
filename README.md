@@ -91,11 +91,11 @@ A curated list of community networks, mesh technologies, and grassroots connecti
 ---
 
 ## Governance & Policy
-- [Technology Appropriation in Latin American Community Internet Networks](https://tripodos.com/index.php/Facultat_Comunicacio_Blanquerna/article/view/789) - Research on technological appropriation and community ownership in Latin American grassroots networks.
 - [Community Network Manual by APC](https://www.apc.org/en/pubs/community-networks-manual) - Comprehensive guide by the Association for Progressive Communications on building and sustaining community networks.
 - [Community Networks as a public policy](https://tau.org.ar/wp-content/uploads/2023/11/NodoTAU_AlterMundi_-A-public-policy-in-motion-ENG-1.pdf) - Research paper by Altermundi on community networks as public policy initiatives in Argentina.
 - [Grassroots Connectivity](https://www.academia.edu/126390177/Conectividad_Popular_Organizaciones_sociales_prestadoras_de_Internet_en_barrios_populares_y_zonas_rurales_de_Argentina) - Collective book detailing social organizations, popular connectivity, and ISP deployment in Argentine informal settlements and rural areas.
 - [IGF Dynamic Coalition on Community Connectivity](https://comconnectivity.org/) - Internet Governance Forum initiative promoting community-driven approaches to connectivity and digital inclusion.
+- [Technology Appropriation in Latin American Community Internet Networks](https://tripodos.com/index.php/Facultat_Comunicacio_Blanquerna/article/view/789) - Research on technological appropriation and community ownership in Latin American grassroots networks.
 ---
 
 ## Learning Resources
