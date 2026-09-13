@@ -1,14 +1,14 @@
 # Broken Links Report
 
-Generated: 2026-09-06 03:11 UTC
+Generated: 2026-09-13 03:26 UTC
 
 **7 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
-- [ ] `https://conectividad.altermundi.net/` - HTTP 500
-- [ ] `https://conectividad.altermundi.net/documentacion/` - HTTP 500
-- [ ] `https://libremesh.org/` - Timeout or DNS failure (000)
+- [ ] `https://conectividad.altermundi.net/` - Timeout or DNS failure (000)
+- [ ] `https://conectividad.altermundi.net/documentacion/` - Timeout or DNS failure (000)
+- [ ] `https://gluon.readthedocs.io/en/latest/` - Timeout or DNS failure (000)
 - [ ] `https://rhizomatica.org/` - Timeout or DNS failure (000)
 - [ ] `https://www.autistici.org/mailman/listinfo/libremesh` - Timeout or DNS failure (000)
 - [ ] `https://www.awmn.net/` - HTTP 403
