@@ -1,13 +1,13 @@
 # Broken Links Report
 
-Generated: 2026-09-27 03:56 UTC
+Generated: 2026-10-04 04:33 UTC
 
 **5 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
-- [ ] `https://conectividad.altermundi.net/` - Timeout or DNS failure (000)
-- [ ] `https://conectividad.altermundi.net/documentacion/` - Timeout or DNS failure (000)
+- [ ] `https://cnlearning.apc.org/` - Timeout or DNS failure (000)
+- [ ] `https://conectividad.altermundi.net/documentacion/` - HTTP 404
 - [ ] `https://www.autistici.org/mailman/listinfo/libremesh` - Timeout or DNS failure (000)
 - [ ] `https://www.awmn.net/` - HTTP 403
 - [ ] `https://www2.vcn.bc.ca/` - HTTP 403
