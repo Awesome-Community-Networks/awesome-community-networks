@@ -1,13 +1,11 @@
 # Broken Links Report
 
-Generated: 2026-10-11 04:18 UTC
+Generated: 2026-10-18 03:15 UTC
 
-**5 broken link(s) found** out of 64 total URLs in `README.md`.
+**3 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
-- [ ] `http://wiki.ninux.org/` - Timeout or DNS failure (000)
-- [ ] `https://rhizomatica.org/` - Timeout or DNS failure (000)
 - [ ] `https://www.autistici.org/mailman/listinfo/libremesh` - Timeout or DNS failure (000)
 - [ ] `https://www.awmn.net/` - HTTP 403
 - [ ] `https://www2.vcn.bc.ca/` - HTTP 403
