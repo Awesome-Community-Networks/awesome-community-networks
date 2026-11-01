@@ -1,11 +1,12 @@
 # Broken Links Report
 
-Generated: 2026-10-25 03:25 UTC
+Generated: 2026-11-01 04:39 UTC
 
-**3 broken link(s) found** out of 64 total URLs in `README.md`.
+**4 broken link(s) found** out of 64 total URLs in `README.md`.
 
 ## Broken Links
 
+- [ ] `https://rhizomatica.org/` - HTTP 401
 - [ ] `https://www.autistici.org/mailman/listinfo/libremesh` - Timeout or DNS failure (000)
 - [ ] `https://www.awmn.net/` - HTTP 403
 - [ ] `https://www2.vcn.bc.ca/` - HTTP 403
